@@ -8,7 +8,7 @@ Microsoft: Azure Operator Nexus Platform Software Engineer
 
 Society for Worldwide Interbank Financial Telecommunication: Cloud DevSecOps Software Engineer
 
-Insight: Decentralize Metaverse Startup Co-Founder
+Insight: Decentralized Metaverse Startup Co-Founder
 
 
 ## 🎨 Creativity Meets Tech
