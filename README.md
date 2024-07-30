@@ -4,11 +4,11 @@
 I am an inventor. From designing the nitrogen-doped graphene facemask for COVID-19 to building a layer-1 cryptocurrency for use in a decentralized digital world, I choose to create on frontiers, as it is the kind of work I find most impactful and exciting.
 
 ## 🌟 Professional Experience
-Microsoft: Azure Operator Nexus Platform Software Engineer 
+Microsoft: Azure Operator Nexus Platform Software Engineer (Present)
 
-Society for Worldwide Interbank Financial Telecommunication: Cloud DevSecOps Software Engineer
+Society for Worldwide Interbank Financial Telecommunication: Cloud DevSecOps Software Engineer (2023)
 
-Insight: Decentralized Metaverse Startup Co-Founder
+Insight: Decentralized Metaverse Startup Co-Founder (2022)
 
 
 ## 🎨 Creativity Meets Tech
