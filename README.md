@@ -1,7 +1,7 @@
 # Hi there! I'm Parnika Saxena 👋
 
 ## 💡 What I Do 
-I am an inventor. From designing the nitrogen-doped graphene facemask for COVID-19 to building a layer-1 cryptocurrency for use in a decentralized digital world, I choose to create on frontiers, as it is the kind of work I find most impactful and exciting.
+From designing the nitrogen-doped graphene facemask for COVID-19 to building a layer-1 cryptocurrency for use in a decentralized digital world, I love combining existing technologies in novel ways to solve old problems in better ways.
 
 ## 🌟 Professional Experience
 Microsoft: Azure Operator Nexus Platform Software Engineer (Present)
